@@ -14,7 +14,8 @@ Todos:
 
 <hr style="border-top: 2px solid red; background: transparent;">
 Further readme content is WIP:<br><br>
-![](./wip.svg)
+![Work in progress](./wip.svg)
+<img src="./wip.svg">
 
 Installation
 ------------
