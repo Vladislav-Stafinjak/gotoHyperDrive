@@ -1,0 +1,4 @@
+bin/gotoHyperDrive
+bin/*.sh
+version
+README.md.bak
